@@ -16,6 +16,7 @@ namespace TestPush2Src
         {
             InitializeComponent();
             System.Windows.Forms.MessageBox.Show("Test1");
+            System.Windows.Forms.MessageBox.Show("Test2");
         }
     }
 }
